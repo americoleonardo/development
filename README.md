@@ -4,7 +4,7 @@
 
 Get the fileme me.terminal at Terminal folder and import in your terminal application on Mac OS in
 
-> Terminal > Preferences > Cog icon > Import
+> terminal > Preferences > Cog icon > Import
 
 Install zsh and zsh-completions using Homebrew and curl settings:
 
