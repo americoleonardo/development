@@ -4,7 +4,7 @@
 
 Get the fileme me.terminal at Terminal folder and import in your terminal application on Mac OS in
 
-> terminal > Preferences > Cog icon > Import
+* terminal > Preferences > Cog icon > Import
 
 Install zsh and zsh-completions using Homebrew and curl settings:
 
@@ -19,8 +19,17 @@ vi ~/.zshrc
 ```
 
 Change default line
+
 ```
 ZSH_THEME="robbyrussell" >> ZSH_THEME="ys"
 ```
+
+## Installing custom PHP Storm theme
+
+* Open PHP Storm preferences
+* Select Scheme
+* Import Scheme...
+* Select phpstorm/Template.icls
+
 
 Enjoy
